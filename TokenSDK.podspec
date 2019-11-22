@@ -16,15 +16,15 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "TokenSDK"
-  spec.version      = "0.0.1"
-  spec.summary      = "TokenSDK A short description of TokenSDK."
+  spec.version      = "0.0.2"
+  spec.summary      = "TokenSDK,Token qukuailian,区块链,身份管理,企业管理"
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
   #   * Try to keep it short, snappy and to the point.
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
-  spec.description  = "TokenSDKTokenSDK A short description of TokenSDK.. "
+  spec.description  = "TokenSDK,Token qukuailian,区块链,身份管理,企业管理..... "
 
   spec.homepage     = "https://github.com/EasySnail/TokenSDK"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
