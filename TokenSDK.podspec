@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "TokenSDK"
-  spec.version      = "0.0.3"
+  spec.version      = "0.0.5"
   spec.summary      = "TokenSDK,Token qukuailian,区块链,身份管理,企业管理"
 
   # This description is used to generate tags and improve search results.
@@ -121,7 +121,6 @@ Pod::Spec.new do |spec|
 
   spec.frameworks = "UIKit", "Foundation"
   spec.vendored_frameworks = "Framework/TokenSDK.framework"
-  spec.xcconfig = {'BITCODE_GENERATION_MODE' => 'bitcode'}
   # spec.library   = "iconv"
   # spec.libraries = "iconv", "xml2"
 
