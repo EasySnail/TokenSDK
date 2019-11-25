@@ -14,7 +14,7 @@
 		</data>
 		<key>Headers/TokenSDK-Swift.h</key>
 		<data>
-		LERwO28z/Efd/d4+dAnt2eui9d8=
+		AumkgKyOxNX4564Esy1zaegwM+Y=
 		</data>
 		<key>Headers/TokenSDK.h</key>
 		<data>
@@ -22,15 +22,23 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		ln557tb+BksmxikQjMvhkoCUYiA=
+		pTmhaCA4JWAX3dbukveMTzWbcJ0=
+		</data>
+		<key>Modules/TokenSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<data>
+		7C5/2durF65UN/0LVtjdDv/VUSA=
+		</data>
+		<key>Modules/TokenSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<data>
+		yj6RCaAjunTIpv/VBgbt7RxlZK4=
 		</data>
 		<key>Modules/TokenSDK.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		Vnj6Z+Q7yqzIih4CFH7+GrG7tgE=
+		7C5/2durF65UN/0LVtjdDv/VUSA=
 		</data>
 		<key>Modules/TokenSDK.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		FLp7V9wGeeD93w6O8vm26Xi/uG8=
+		yj6RCaAjunTIpv/VBgbt7RxlZK4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -65,11 +73,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			LERwO28z/Efd/d4+dAnt2eui9d8=
+			AumkgKyOxNX4564Esy1zaegwM+Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			bnFG6mHV4R0oPDFktvQqy368DB5b7BMv56eBUa6CVTc=
+			dBhJXHpO2NWWaxO29YiRauNCtCTU5TlyEmlOVJRl+uo=
 			</data>
 		</dict>
 		<key>Headers/TokenSDK.h</key>
@@ -83,26 +91,48 @@
 			elIdyso3x6lVX4LgvUY1QLCqCw3bX0JixvQtTf+W2hg=
 			</data>
 		</dict>
+		<key>Modules/TokenSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7C5/2durF65UN/0LVtjdDv/VUSA=
+			</data>
+			<key>hash2</key>
+			<data>
+			S0muDjTMS5xz5YMPv0x1/H/ZhFF+hFz55Kqsic1QzSs=
+			</data>
+		</dict>
+		<key>Modules/TokenSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			yj6RCaAjunTIpv/VBgbt7RxlZK4=
+			</data>
+			<key>hash2</key>
+			<data>
+			8+PrBpL4TeSyu+o9f39jNLyrk0UaL9itbeHRX1P5z1Q=
+			</data>
+		</dict>
 		<key>Modules/TokenSDK.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Vnj6Z+Q7yqzIih4CFH7+GrG7tgE=
+			7C5/2durF65UN/0LVtjdDv/VUSA=
 			</data>
 			<key>hash2</key>
 			<data>
-			ppib85DVdBUsaVB5YfNe8BJ2PLzcp1jNz4OPx7XdUHA=
+			S0muDjTMS5xz5YMPv0x1/H/ZhFF+hFz55Kqsic1QzSs=
 			</data>
 		</dict>
 		<key>Modules/TokenSDK.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			FLp7V9wGeeD93w6O8vm26Xi/uG8=
+			yj6RCaAjunTIpv/VBgbt7RxlZK4=
 			</data>
 			<key>hash2</key>
 			<data>
-			S+l5/apgvVKCAKYdSwHGmRWC15IcTUmOBRq7SzKbKGY=
+			8+PrBpL4TeSyu+o9f39jNLyrk0UaL9itbeHRX1P5z1Q=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

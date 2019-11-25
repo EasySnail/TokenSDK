@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "TokenSDK"
-  spec.version      = "0.0.2"
+  spec.version      = "0.0.3"
   spec.summary      = "TokenSDK,Token qukuailian,区块链,身份管理,企业管理"
 
   # This description is used to generate tags and improve search results.
@@ -121,11 +121,11 @@ Pod::Spec.new do |spec|
 
   spec.frameworks = "UIKit", "Foundation"
   spec.vendored_frameworks = "Framework/TokenSDK.framework"
-
+  spec.xcconfig = {'BITCODE_GENERATION_MODE' => 'bitcode'}
   # spec.library   = "iconv"
   # spec.libraries = "iconv", "xml2"
 
-  spec.swift_version = '4.0'
+  spec.swift_version = '5.0'
   # ――― Project Settings ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
   #  If your library depends on compiler flags you can set them in the xcconfig hash
@@ -137,12 +137,11 @@ Pod::Spec.new do |spec|
   # spec.xcconfig = { "HEADER_SEARCH_PATHS" => "$(SDKROOT)/usr/include/libxml2" }
   # spec.dependency "JSONKit", "~> 1.4"
 
- spec.dependency "BigInt", "~> 4.0.0"
- spec.dependency "CryptoSwift", "~> 1.0.0"
- spec.dependency "PromiseKit", "~> 6.8.5"
- spec.dependency "Starscream", "~> 3.1.0"
- spec.dependency "secp256k1.c", "~> 0.1.2"
- spec.dependency "TZImagePickerController", "~> 3.2.7"
  spec.dependency "EasyLibs", "~> 0.0.5"
-
+ spec.dependency 'BigInt', '~> 5.0.0'
+ spec.dependency 'CryptoSwift', '~> 1.2.0'
+ spec.dependency 'PromiseKit', '~> 6.12.0'
+ spec.dependency 'Starscream', '~> 3.1.1'
+ spec.dependency 'secp256k1.c', '~> 0.1.2' 
+ spec.dependency 'TZImagePickerController', '~> 3.2.7'
 end
