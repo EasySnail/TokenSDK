@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "TokenSDK"
-  spec.version      = "0.0.5"
+  spec.version      = "0.0.6"
   spec.summary      = "TokenSDK,Token qukuailian,区块链,身份管理,企业管理"
 
   # This description is used to generate tags and improve search results.
@@ -136,7 +136,7 @@ Pod::Spec.new do |spec|
   # spec.xcconfig = { "HEADER_SEARCH_PATHS" => "$(SDKROOT)/usr/include/libxml2" }
   # spec.dependency "JSONKit", "~> 1.4"
 
- spec.dependency "EasyLibs", "~> 0.0.5"
+ spec.dependency "EasyLibs"
  spec.dependency 'BigInt', '~> 5.0.0'
  spec.dependency 'CryptoSwift', '~> 1.2.0'
  spec.dependency 'PromiseKit', '~> 6.12.0'
